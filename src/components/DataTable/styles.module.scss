@@ -1,0 +1,39 @@
+.dataTable {
+    width: 100%;
+    border-spacing: 0 0.5rem;
+    color: #969cb3;  
+
+    thead {
+        th {
+            background: var(--white);
+    
+            font-weight: normal;
+            padding: 1rem 2rem;
+        
+            text-align: left;
+    
+            &:first-child { border-radius: 0.25rem 0 0 0.25rem;}
+            &:last-child  { border-radius: 0 0.25rem 0.25rem 0;}
+        }
+    }
+   
+    tbody {
+        tr {
+            opacity: 0.7;
+            &:hover{
+                opacity: 1  
+            }
+
+            td {
+                background:white;
+                padding: 1rem 2rem;
+
+                &:first-child { border-radius: 0.25rem 0 0 0.25rem;}
+                &:last-child  { border-radius: 0 0.25rem 0.25rem 0;}
+            }
+        }
+       
+    }
+   
+}
+

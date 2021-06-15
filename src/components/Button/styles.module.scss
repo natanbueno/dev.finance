@@ -1,0 +1,37 @@
+
+.buttonSmall {
+    color: var(--green);
+    text-decoration: none;
+    cursor: pointer;
+    
+    &:hover {
+        color: var(--light-green);
+    }
+}
+
+.buttonNew {
+    background: var(--green);
+    display: inline-block;
+    color: var(--white);
+    &:hover {
+        background: var(--light-green);   
+    }
+}
+
+.buttonCancel {
+    color: var(--red);
+    border: 2px var(--red) solid;
+    border-radius: 0.25rem;
+     
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    opacity: 0.6;
+
+    &:hover {
+        opacity: 1;
+    }
+}
+
+
