@@ -7,24 +7,24 @@
 
 ## ✨ Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido usando com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [Sass](https://sass-lang.com/)
 - [Create React App](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
+- [Sass](https://sass-lang.com/)
 
 
 ## 💻 Projeto
-O dev.finance é um app que ajuda administrar receitas e despesas. Originalmente esse projeto foi construído na Martona Discover 
-na @Rockseat.
+O dev.finance é um app que ajuda administrar receitas e despesas. Originalmente esse projeto foi construído 
+na Maratona Discover na @Rockseat.
 
-O Projeto construído na Maratona Discover foi utilizado, html, css e javascript puro. Para aprender as tecnologias mais avançadas
-refatorei esse projeto utilizando React e Sass espero que goste do resultado. 
+Originalmente esse projeto foi construído em html, css e javascript puro. Porém para aprender melhor a utilizar o 
+framework e tecnologias mais avançadas, decidi refatorar o projeto. 
 
 ## 🚀 Como executar
 
 - Clone o repositório
-- Instale as dependências com `npm ou yarn`
-- Inicie o servidor com `npm start`
+- Instale as dependências com `npm install ou yarn intall`
+- Inicie o servidor com `npm start ou yarn start`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
