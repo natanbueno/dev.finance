@@ -1,9 +1,3 @@
-<h1 align="center">
-    <br>
-    <img src="./.github/logo-dev-finances.png" width="500" heigh="150" alt="logo Dev.Finances">
-</h1>
-
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
