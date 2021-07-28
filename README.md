@@ -18,8 +18,8 @@ Esse projeto foi desenvolvido usando com as seguintes tecnologias:
 O dev.finance é um app que ajuda administrar receitas e despesas. Originalmente esse projeto foi construído 
 na Maratona Discover na @Rockseat.
 
-Originalmente esse projeto foi construído em html, css e javascript puro. Porém para aprender melhor a utilizar o 
-framework e tecnologias mais avançadas, decidi refatorar o projeto. 
+Era um projeto que tinha sido construído usando:(html, css e javascript puro). Porém para aprender melhor a utilizar o 
+framework React JS e tecnologias mais avançadas, decidi refatorar o projeto. 
 
 ## 🚀 Como executar
 
